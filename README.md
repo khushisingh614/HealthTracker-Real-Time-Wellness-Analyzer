@@ -1,0 +1,1 @@
+This project helps in monitoring the real time data given by smart watch and tells the person by notification if he is unfit.
